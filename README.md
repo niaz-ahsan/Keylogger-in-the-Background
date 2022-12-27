@@ -21,6 +21,5 @@ Inside ./payload directory
 2. `keylogger.py` The actual keylogger script
 3. `key_codes.py` A Python dictionary mapping unique Byte Codes vs Keyboard Character
 4. `tcp_client.py` Script that continuously sends generated user key stroke log files. Runs via cronjob.
-5. 
 
 [The demo is available here](https://www.youtube.com/watch?v=gFgk_dB6Jfo) 
